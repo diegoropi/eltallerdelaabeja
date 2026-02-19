@@ -6,7 +6,7 @@ const miCatalogo = {
     // 1. Datos de tu Negocio
     nombre: "El Taller de la Abeja",
     descripcion: "Taller de muchas cosas hechas a mano. Entregas en Toluca y Metepec.",
-    telefono: "527115536080", // Pon tu número con código de país, sin símbolos (Ej: 52...)
+    telefono: "527225536080", // Pon tu número con código de país, sin símbolos (Ej: 52...)
     mensajeDespedida: "¿Alguna duda? ¡Mándame un mensaje directo!",
     logo: "logoeltallerdelaabejasinfondo.jpg", // Nombre de la imagen de tu logo. Si no tienes, déjalo así: ""
 
@@ -34,4 +34,5 @@ const miCatalogo = {
     ]
 
 };
+
 
