@@ -17,7 +17,7 @@ const miCatalogo = {
             nombre: "Buffs",
             precio: "70",
             detalles: "Colores: ¡Pregunta por tu favorito!. unitalla. Tela polar muy calientita.",
-            imagen: "buffs.jpg" // Solo pon el nombre de la foto que guardaste en tu carpeta
+            imagen: "buffsvarios.jpg" // Solo pon el nombre de la foto que guardaste en tu carpeta
         },
         {
             nombre: "Osos de Recuerdo",
@@ -32,4 +32,5 @@ const miCatalogo = {
             imagen: "etiquetasstich.jpg"
         }
     ]
+
 };
