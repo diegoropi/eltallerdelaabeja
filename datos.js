@@ -1,6 +1,6 @@
 const miCatalogo = {
     // 1. Datos de tu Negocio
-    nombre: "El Taller de la Abeja",
+    nombre: "",
     descripcion: "Productos personalizados y de alta calidad.",
     telefono: "+527225536080", // Cambia esto por tu número
     mensajeDespedida: "¿Listo para hacer tu pedido? ¡Escríbeme!",
@@ -98,3 +98,4 @@ const miCatalogo = {
     ]
 
 };
+
