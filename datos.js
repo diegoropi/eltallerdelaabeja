@@ -1,10 +1,10 @@
 const miCatalogo = {
     // 1. Datos de tu Negocio
-    nombre: "Mi Catálogo de Productos",
+    nombre: "El Taller de la Abeja",
     descripcion: "Productos personalizados y de alta calidad.",
-    telefono: "521234567890", // Cambia esto por tu número
+    telefono: "+527225536080", // Cambia esto por tu número
     mensajeDespedida: "¿Listo para hacer tu pedido? ¡Escríbeme!",
-    logo: "", // Nombre de tu logo (ej. "logo.jpg"). Si no tienes, déjalo vacío ""
+    logo: "logoeltallerdelaabejasinfondo.jpg", // Nombre de tu logo (ej. "logo.jpg"). Si no tienes, déjalo vacío ""
 
     // 2. Mapa de Entregas (Pega aquí el HTML que te da Google Maps al darle a "Compartir > Insertar un mapa")
     mapaUbicacion: `<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15050!2d-99.1332!3d19.4326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2smx!4v1600000000000!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
@@ -16,7 +16,7 @@ const miCatalogo = {
             precio: "90 - $170",
             detalles: "Etiquetas escolares con diseño de tu personaje favorito, perfectas para marcar libretas, libros, útiles y más",
             tiempoEntrega: "2 días",
-            imagenes: ["etiquetas-1.jpg", "etiquetas-2.jpg", "etiquetas-3.jpg"]
+            imagenes: ["etiquetasstich.jpg", "buffsvarios.jpg", "etiquetas-3.jpg"]
         },
         {
             nombre: "Etiquetas escolares personalizadas (vinil)",
@@ -30,7 +30,7 @@ const miCatalogo = {
             precio: "320 - $450",
             detalles: "Tamaños: 45 - 60cm. Osos hechos con la prenda de esa persona especial.",
             tiempoEntrega: "7 días",
-            imagenes: ["oso-memoria-1.jpg", "oso-memoria-2.jpg", "oso-memoria-3.jpg"]
+            imagenes: ["ososraton.jpg", "buffsvarios.jpg", "oso-memoria-3.jpg"]
         },
         {
             nombre: "Osos decorativos",
@@ -44,7 +44,7 @@ const miCatalogo = {
             precio: "75",
             detalles: "¡Pregunta por tu color favorito! Unitalla y unisex hechos de tela polar muy calientita",
             tiempoEntrega: "2 días",
-            imagenes: ["buff-1.jpg", "buff-2.jpg", "buff-3.jpg"]
+            imagenes: ["buffsvarios.jpg", "ososraton.jpg", "buff-3.jpg"]
         },
         {
             nombre: "Tag para mochila",
@@ -96,4 +96,5 @@ const miCatalogo = {
             imagenes: ["tarjeta-1.jpg", "tarjeta-2.jpg", "tarjeta-3.jpg"]
         }
     ]
+
 };
