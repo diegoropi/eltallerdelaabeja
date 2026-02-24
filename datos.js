@@ -16,86 +16,87 @@ const miCatalogo = {
             precio: "90 - $170",
             detalles: "Etiquetas escolares con diseño de tu personaje favorito, perfectas para marcar libretas, libros, útiles y más",
             tiempoEntrega: "2 días",
-            imagenes: ["etiquetasstich.jpg", "buffsvarios.jpg", "etiquetas-3.jpg"]
+            imagenes: ["etiquetasstich.jpg", "etiquetas1.jpg", "etiquetas2.jpg"]
         },
         {
             nombre: "Etiquetas escolares personalizadas (vinil)",
             precio: "130 - $250",
             detalles: "Etiquetas escolares con diseño de tu personaje favorito, ideales para moldes, botellas libretas, útiles y más",
             tiempoEntrega: "2 días",
-            imagenes: ["vinil-1.jpg", "vinil-2.jpg", "vinil-3.jpg"]
+            imagenes: ["etiqvinil1.jpg", "etiqvinil2.jpg", "etiqvinil3.jpg"]
         },
         {
             nombre: "Osos de memoria",
             precio: "320 - $450",
             detalles: "Tamaños: 45 - 60cm. Osos hechos con la prenda de esa persona especial.",
             tiempoEntrega: "7 días",
-            imagenes: ["ososraton.jpg", "buffsvarios.jpg", "oso-memoria-3.jpg"]
+            imagenes: ["ososraton.jpg", "osomemoria.jpg", "osomemoria3.jpg"]
         },
         {
             nombre: "Osos decorativos",
             precio: "320 - $450",
             detalles: "Tamaños: 45 - 60cm. Hechos con tela decorativa para que combinen perfectamente con tu hogar",
             tiempoEntrega: "7 días",
-            imagenes: ["oso-deco-1.jpg", "oso-deco-2.jpg", "oso-deco-3.jpg"]
+            imagenes: ["ososdeco1.jpg", "ososdeco2.jpg", "ososdeco3.jpg"]
         },
         {
             nombre: "Buffs cuellera para el frío",
             precio: "75",
             detalles: "¡Pregunta por tu color favorito! Unitalla y unisex hechos de tela polar muy calientita",
             tiempoEntrega: "2 días",
-            imagenes: ["buffsvarios.jpg", "ososraton.jpg", "buff-3.jpg"]
+            imagenes: ["buffsvarios.jpg", "buffs1.jpg", "buffs2.jpg"]
         },
         {
             nombre: "Tag para mochila",
             precio: "45",
             detalles: "Etiqueta de vinil personalizada ajustable a cualquier mochila o bolso",
             tiempoEntrega: "3 días",
-            imagenes: ["tag-1.jpg", "tag-2.jpg", "tag-3.jpg"]
+            imagenes: ["tagmoch1.jpg", "tagmoch2.jpg", "tagmoch3.jpg"]
         },
         {
             nombre: "Letreros personalizados de bienvenida al bebé",
             precio: "360",
             detalles: "Letrero decorado y personalizado con fecha, peso y estatura del nuevo miembro de la familia",
             tiempoEntrega: "3 días",
-            imagenes: ["letrero-1.jpg", "letrero-2.jpg", "letrero-3.jpg"]
+            imagenes: ["letbebe1.jpg", "letbebe2.jpg", "letbebe3.jpg"]
         },
         {
             nombre: "Playeras 100% personalizadas",
             precio: "150",
             detalles: "Playeras de algodón personalizadas con imagen y texto en muchas tallas",
             tiempoEntrega: "7 días",
-            imagenes: ["playera-1.jpg", "playera-2.jpg", "playera-3.jpg"]
+            imagenes: ["playeraper1.jpg", "playeraper2.jpg", "playeraper3.jpg"]
         },
         {
             nombre: "Veladoras personalizadas",
             precio: "25 - $45",
             detalles: "Tamaños: Ch y G Perfectas para el altar de Día de Muertos y recordar a esos seres queridos que nos visitan cada año ¡Pregunta por nuestros modelos!",
             tiempoEntrega: "3 días",
-            imagenes: ["vela-1.jpg", "vela-2.jpg", "vela-3.jpg"]
+            imagenes: ["veladmuertos1.jpg", "veladmuertos2.jpg", "veladmuertos3.jpg"]
         },
         {
             nombre: "Esferas Personalizadas",
             precio: "40",
             detalles: "Esferas navideñas de varios colores y modelos personalizadas con el nombre y figura de tu preferencia",
             tiempoEntrega: "Variable",
-            imagenes: ["esfera-1.jpg", "esfera-2.jpg", "esfera-3.jpg"]
+            imagenes: ["esferaper1.jpg", "esferaper2.jpg", "esferaper3.jpg"]
         },
         {
             nombre: "Osos navideños",
             precio: "320 - $450",
             detalles: "Tamaños: 45 - 60cm. Hechos para navidad pa que más",
             tiempoEntrega: "7 días",
-            imagenes: ["oso-nav-1.jpg", "oso-nav-2.jpg", "oso-nav-3.jpg"]
+            imagenes: ["osonav1.jpg", "osonav2.jpg", "osonav3.jpg"]
         },
         {
             nombre: "Tarjetas navideñas",
             precio: "85",
             detalles: "Con el mensaje que desees para quien",
             tiempoEntrega: "2 días",
-            imagenes: ["tarjeta-1.jpg", "tarjeta-2.jpg", "tarjeta-3.jpg"]
+            imagenes: ["tarjetanav1.jpg", "tarjetanav2.jpg", "tarjetanav3.jpg"]
         }
     ]
 
 };
+
 
